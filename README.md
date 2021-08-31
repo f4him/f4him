@@ -2,4 +2,4 @@
 
 ## todo
 eida thik korte hoibo
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![alt text](https://imgur.com/gallery/Hz0hQdo "Header")](https://some-url.dev/)
