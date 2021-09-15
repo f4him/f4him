@@ -17,7 +17,7 @@
 </br>Check out my blog:  <a href="https://thedailyfahim.ml"><u>TheDailyFahim (Not live rn)</u></a></br>
 <hr width="70%" style="height:5px;">
 <br/>
-<h2>Technologies & Tools</h2>
+<h2>Things that I am familiar with</h2>
 <br/>
 </p>
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="22px"/>
