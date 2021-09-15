@@ -14,7 +14,7 @@
 [<img align="center" alt="Fahim | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 [<img align="center" alt="Fahim | Skype"  src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" />][skype]
 
-</br>Check out my blog:  <a href="https://thedailyfahim.ml"><u>TheDailyFahim</u></a></br>
+</br>Check out my blog:  <a href="https://thedailyfahim.ml"><u>TheDailyFahim (Not live rn)</u></a></br>
 <hr width="70%" style="height:5px;">
 <br/>
 <h2>Technologies & Tools</h2>
