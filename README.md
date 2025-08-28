@@ -74,9 +74,7 @@
 <br/><br/><br/>
 
 
-![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=f4him&show_icons=true&theme=radical&count_private=true&hide=commits)
-<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f4him&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
 </div>
 
